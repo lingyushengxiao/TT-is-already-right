@@ -1,0 +1,8 @@
+numpy
+torch
+scikit-learn
+cvxpy
+cvxopt
+scipy
+matplotlib
+diffcp
